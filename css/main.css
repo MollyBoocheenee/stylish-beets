@@ -6,6 +6,10 @@ html {
   box-sizing: inherit;
 }
 
+img {
+  width: 100%;
+}
+
 body {
   background-color: #c9b5ab;
   line-height: 1.5;
@@ -27,6 +31,7 @@ a {
   font-size: 1.125rem;
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
@@ -36,4 +41,23 @@ a:hover {
 
 ol {
   list-style-type: none;
+  margin-bottom: 1rem;
+}
+
+figcaption {
+  font-style: italic;
+  align-content: center;
+}
+
+dt {
+  font-weight: bold;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+cite {
+  font-size: 0.5rem;
 }
