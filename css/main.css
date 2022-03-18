@@ -57,14 +57,15 @@ dt {
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
+  font-weight: normal;
 }
 
 cite {
-  font-size: 0.5rem;
+  font-size: 1em;
 }
 
 footer {
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-style: normal;
   font-weight: normal;
   font-family: "PT Serif", serif;
